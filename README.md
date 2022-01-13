@@ -4,5 +4,6 @@ Esta aplicação utiliza conhecimentos básicos de desenvolvimento front e back 
 ## Rodando com Docker
 
 ```bash 
+$ cd ./node-mongo-compose
 $ docker-compose up
 ```
